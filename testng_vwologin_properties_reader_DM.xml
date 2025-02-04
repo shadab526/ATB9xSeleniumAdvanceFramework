@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/HP/IdeaProjects/ATB9xSeleniumAdvanceFramework">
+        <classes>
+            <class name="com.thetestingacademy.test.TestVWOLogin.TestVWOLogin_POM_PropertyReader_DM_03">
+                <methods><include name="testLoginNegativeVWO"/>
+                    <include name="testLoginPositiveVWO"/></methods></class><class name="com.thetestingacademy.test.TestVWOLogin.TestVWOLogin_POM_PropertyReader_DM_03"><methods><include name="testLoginNegativeVWO"/><include name="testLoginPositiveVWO"/></methods>
+        </class>
+        </classes>
+    </test>
+</suite>
